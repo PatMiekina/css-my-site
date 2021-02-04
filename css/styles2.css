@@ -1,0 +1,131 @@
+/**********************TAGS SELECTORS**********************/
+body {
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #e9766e;
+  margin: 0;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 1;
+}
+
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+color: white;
+text-shadow: 2px 2px #ff0000;
+font-size: 2.5rem;
+}
+
+h3 {
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #247ba0;
+  width: 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+a{
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+/**********************CLASS SELECTORS**********************/
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+  margin-bottom: 50px;
+}
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+
+.head2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  text-shadow: none;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.prof-pic {
+  border-radius: 50%;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  margin: 0 10px 0 10px;
+}
+
+.middle-container {
+background-color: white;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.design {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.problems {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  padding: 50px 300px 10px 300px;
+}
+
+.menu {
+  background-color: #66BFBF;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5%;
+  width: 100%;
+  padding: 5px;
+}
+
+.menu-icon {
+  height: 100%;
+}
